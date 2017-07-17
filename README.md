@@ -1,4 +1,4 @@
-#Voy a ser un ironman
+# \#voyaserunironman
 
 Este repositorio genera el ebook Voy a ser un Ironman, una recopilación de posts del blog http://psanxiao.com
 
